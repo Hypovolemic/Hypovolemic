@@ -7,6 +7,7 @@ I'm a developer and student from Singapore 🇸🇬 with a passion for Data Engi
 - 🎓 Penultimate Computer Science undergraduate student at NUS, with a Second Major in Data Analytics
 - 🗄️ Focus areas: **Database Systems** and **Networking & Distributed Systems**
 - 💼 Currently: Software Engineer Intern at **Pints AI** <!-- TODO: remove after Dec 2026 -->
+- 💼 Past: AI & Analytics Intern at **Temasek Holdings**
 - 🔐 Interested in **data engineering** and **blockchain protocols**
 - 📫 Reach me at: weifengwong1018@gmail.com
 
