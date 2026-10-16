@@ -1,0 +1,37 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: "17 16 * * *" # 00:17 Singapore time, daily
+  workflow_dispatch: # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update stats block
+        env:
+          # STATS_TOKEN is optional: add it to include private-repo activity (see setup notes)
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: Hypovolemic
+        run: python scripts/update_stats.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: update README stats"
+          git push
