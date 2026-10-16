@@ -71,11 +71,11 @@ I'm a developer and student from Singapore 🇸🇬 with a passion for Data Engi
 
 ### 📊 GitHub Stats
 
-<!-- Delete this section if the cards look sparse. -->
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hypovolemic&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hypovolemic&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<!-- STATS:START -->
+_Stats will appear after the first workflow run._
+<!-- STATS:END -->
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hypovolemic&layout=compact&theme=github_dark&hide_border=true&hide=html&size_weight=0.5&count_weight=0.5" />
 
 ---
 
