@@ -72,7 +72,16 @@ I'm a developer and student from Singapore 🇸🇬 with a passion for Data Engi
 ### 📊 GitHub Stats
 
 <!-- STATS:START -->
-_Stats will appear after the first workflow run._
+<p>
+  <img alt="Contributions: 435" src="https://img.shields.io/badge/Contributions-435-2EA043?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Commits: 185" src="https://img.shields.io/badge/Commits-185-1F6FEB?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Pull Requests: 73" src="https://img.shields.io/badge/Pull_Requests-73-8957E5?style=for-the-badge" />
+  <img alt="Issues: 107" src="https://img.shields.io/badge/Issues-107-D29922?style=for-the-badge" />
+  <img alt="Reviews: 44" src="https://img.shields.io/badge/Reviews-44-BF4B8A?style=for-the-badge" />
+  <img alt="Repos Contributed To: 29" src="https://img.shields.io/badge/Repos_Contributed_To-29-57606A?style=for-the-badge" />
+</p>
+
+<sub>Last 12 months, same window as the contribution graph</sub>
 <!-- STATS:END -->
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hypovolemic&layout=compact&theme=github_dark&hide_border=true&hide=html&size_weight=0.5&count_weight=0.5" />
