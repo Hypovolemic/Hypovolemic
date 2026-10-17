@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Wei Feng
+<img width="309" height="350" alt="image" src="https://github.com/user-attachments/assets/17d12730-cff8-4619-ab12-7cc2d9a1ea0a" />
 
 ### 👨‍💻 About Me
 
