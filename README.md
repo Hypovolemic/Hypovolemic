@@ -59,8 +59,8 @@ I'm a developer and student from Singapore 🇸🇬 with a passion for Data Engi
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**CAPT Nexus**](#) | Community app for CAPT residential college — 600+ users | <!-- TODO --> |
-| [**CAPT Lounge Booking**](#) | Telegram Mini App for booking college lounges — 130+ users | <!-- TODO --> |
+| [**CAPT Nexus**](#) | Community app for CAPT residential college | <!-- TODO --> |
+| [**CAPT Lounge Booking**](#) | Telegram Mini App for booking college lounges | <!-- TODO --> |
 | [**CatWatch**](#) | Community cat welfare PWA with disappearance alerts and CLIP-based cat re-identification (Hack the Kitty 2026) | Next.js, Supabase, pgvector, Temporal, Redis |
 | [**Telegram Theme Generator**](https://github.com/Hypovolemic/telegram-theme-generator) <!-- TODO: check repo name --> | Generates Telegram Desktop themes from any wallpaper: extracts its colour palette and tunes contrast for readability | TypeScript <!-- TODO: confirm stack --> |
 | [**PokéArt**](#) 🚧 | Pokémon TCG art discovery using CLIP embeddings | Go, Next.js, pgvector |
