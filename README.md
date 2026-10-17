@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a developer and student from Singapore 🇸🇬 with a passion for Data Engineering and Data Analytics and also dabble in other fields in computer science.
+I'm a developer and student from Singapore 🇸🇬 with a passion for database infrastructure in Data Engineering and Data Analytics, still dabbling in other fields in computer science.
 
 - 🎓 Penultimate Computer Science undergraduate student at NUS, with a Second Major in Data Analytics
 - 🗄️ Focus areas: **Database Systems** and **Networking & Distributed Systems**
