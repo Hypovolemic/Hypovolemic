@@ -75,9 +75,9 @@ I'm a developer and student from Singapore 🇸🇬 with a passion for database 
 
 <!-- STATS:START -->
 <p>
-  <img alt="Contributions: 413" src="https://img.shields.io/badge/Contributions-413-2EA043?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Contributions: 414" src="https://img.shields.io/badge/Contributions-414-2EA043?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Commits: 191" src="https://img.shields.io/badge/Commits-191-1F6FEB?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Pull Requests: 64" src="https://img.shields.io/badge/Pull_Requests-64-8957E5?style=for-the-badge" />
+  <img alt="Pull Requests: 65" src="https://img.shields.io/badge/Pull_Requests-65-8957E5?style=for-the-badge" />
   <img alt="Issues: 103" src="https://img.shields.io/badge/Issues-103-D29922?style=for-the-badge" />
   <img alt="Reviews: 29" src="https://img.shields.io/badge/Reviews-29-BF4B8A?style=for-the-badge" />
   <img alt="Repos Contributed To: 29" src="https://img.shields.io/badge/Repos_Contributed_To-29-57606A?style=for-the-badge" />
