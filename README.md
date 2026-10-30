@@ -14,7 +14,7 @@ I'm a developer and student from Singapore 🇸🇬 with a passion for database 
 
 ---
 
-### 🛠️ Favourite Technologies
+### Technologies
 
 #### Languages
 
@@ -54,7 +54,7 @@ I'm a developer and student from Singapore 🇸🇬 with a passion for database 
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
 <!-- TODO: replace each # with the repo or live link -->
 
