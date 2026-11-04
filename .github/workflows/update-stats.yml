@@ -25,13 +25,27 @@ jobs:
           GH_USER: Hypovolemic
         run: python scripts/update_stats.py
 
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        # On a failed fetch the step fails without writing, so the last good card is kept
+        # and the stats commit below still runs
+        continue-on-error: true
+        with:
+          card: top-langs
+          options: username=Hypovolemic&layout=compact&theme=github_dark&hide_border=true&hide=html&size_weight=0.5&count_weight=0.5
+          path: profile/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
       - name: Commit if changed
         run: |
-          if git diff --quiet; then
+          # Stage first so the card is picked up on the run that creates it (untracked files are invisible to git diff)
+          git add README.md profile/
+          if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "chore: update README stats"
+          git commit -m "chore: update README stats"
           git push
