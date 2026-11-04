@@ -86,7 +86,7 @@ I'm a developer and student from Singapore 🇸🇬 with a passion for database 
 <sub>Last 12 months, same window as the contribution graph</sub>
 <!-- STATS:END -->
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hypovolemic&layout=compact&theme=github_dark&hide_border=true&hide=html&size_weight=0.5&count_weight=0.5" />
+<img height="165" alt="Top languages" src="./profile/top-langs.svg" />
 
 ---
 
