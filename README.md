@@ -75,11 +75,11 @@ I'm a developer and student from Singapore 🇸🇬 with a passion for database 
 
 <!-- STATS:START -->
 <p>
-  <img alt="Contributions: 746" src="https://img.shields.io/badge/Contributions-746-2EA043?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Contributions: 721" src="https://img.shields.io/badge/Contributions-721-2EA043?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Commits: 194" src="https://img.shields.io/badge/Commits-194-1F6FEB?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Pull Requests: 58" src="https://img.shields.io/badge/Pull_Requests-58-8957E5?style=for-the-badge" />
+  <img alt="Pull Requests: 56" src="https://img.shields.io/badge/Pull_Requests-56-8957E5?style=for-the-badge" />
   <img alt="Issues: 96" src="https://img.shields.io/badge/Issues-96-D29922?style=for-the-badge" />
-  <img alt="Reviews: 15" src="https://img.shields.io/badge/Reviews-15-BF4B8A?style=for-the-badge" />
+  <img alt="Reviews: 0" src="https://img.shields.io/badge/Reviews-0-BF4B8A?style=for-the-badge" />
   <img alt="Repos Contributed To: 29" src="https://img.shields.io/badge/Repos_Contributed_To-29-57606A?style=for-the-badge" />
 </p>
 
